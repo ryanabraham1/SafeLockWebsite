@@ -85,6 +85,11 @@
                             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR1kBPPssI2yf_qnAR5oV9_CFPs5b6CN3W9Q&s"
                             alt="Austin Christian University"
                     />
+<img
+                            class="h-30 w-fit rounded-2xl hover:scale-125 transition-transform duration-300"
+                            src="https://images.squarespace-cdn.com/content/v1/5ecc1a136fe6734553494262/3338bb65-1ee9-4e01-8525-14f857339523/Logos+%2819%29.png"
+                            alt="Delaware Horn Entepreneurship"
+                    />
 
 
 
@@ -100,7 +105,7 @@
                     <li class="flex items-center gap-3"><Crown class="text-yellow-500 size-5 shrink-0" /> <span>2nd Place Youth Venture Business Challenge</span></li>
                     <li class="flex items-center gap-3"><Crown class="text-yellow-500 size-5 shrink-0" /> <span>3rd Place Global Blue Ocean Competition</span></li>
 
-                    <li class="flex items-center gap-3"><Crown class="text-yellow-500 size-5 shrink-0" /> <span>Diamond Challenge Global Finalist</span></li>
+                    <li class="flex items-center gap-3"><Crown class="text-yellow-500 size-5 shrink-0" /> <span>1st Place Global Diamond Challenge</span></li>
                     <li class="flex items-center gap-3"><Crown class="text-yellow-500 size-5 shrink-0" /> <span>2x Diamond Challenge Global Semi-finalist</span></li>
 
 
