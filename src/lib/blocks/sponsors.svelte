@@ -56,7 +56,7 @@
 
             <!-- Sponsors Section -->
             <div class="text-center">
-                <h2 class="text-4xl font-medium lg:text-5xl">Our Sponsors</h2>
+                <h2 class="text-4xl font-medium lg:text-5xl">Our Sponsors &amp; Partners</h2>
                 <div
                         class="mx-auto mt-12 flex max-w-4xl flex-wrap items-center justify-center gap-x-12 gap-y-8 sm:gap-x-16 sm:gap-y-12"
                 >
@@ -85,10 +85,15 @@
                             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR1kBPPssI2yf_qnAR5oV9_CFPs5b6CN3W9Q&s"
                             alt="Austin Christian University"
                     />
-<img
-                            class="h-30 w-fit rounded-2xl hover:scale-125 transition-transform duration-300"
+                    <img
+                            class="h-30 w-fit rounded-2xl bg-white p-2 hover:scale-125 transition-transform duration-300"
                             src="https://images.squarespace-cdn.com/content/v1/5ecc1a136fe6734553494262/3338bb65-1ee9-4e01-8525-14f857339523/Logos+%2819%29.png"
-                            alt="Delaware Horn Entepreneurship"
+                            alt="Delaware Horn Entrepreneurship"
+                    />
+                    <img
+                            class="h-30 w-fit rounded-2xl hover:scale-125 transition-transform duration-300"
+                            src="/hvcg.png"
+                            alt="Harvard Undergraduate Venture Capital Group"
                     />
 
 
@@ -100,12 +105,12 @@
             <div class="text-center">
                 <h2 class="text-4xl font-medium lg:text-5xl">Award-Winning Concept</h2>
                 <ul class="mt-12 flex flex-col items-center md:items-start space-y-4 text-2xl">
+                    <li class="flex items-center gap-3"><Crown class="text-yellow-500 size-5 shrink-0" /> <span>1st Place Global Diamond Challenge</span></li>
                     <li class="flex items-center gap-3"><Crown class="text-yellow-500 size-5 shrink-0" /> <span>2nd Place President's Business Challenge</span></li>
 
                     <li class="flex items-center gap-3"><Crown class="text-yellow-500 size-5 shrink-0" /> <span>2nd Place Youth Venture Business Challenge</span></li>
                     <li class="flex items-center gap-3"><Crown class="text-yellow-500 size-5 shrink-0" /> <span>3rd Place Global Blue Ocean Competition</span></li>
 
-                    <li class="flex items-center gap-3"><Crown class="text-yellow-500 size-5 shrink-0" /> <span>1st Place Global Diamond Challenge</span></li>
                     <li class="flex items-center gap-3"><Crown class="text-yellow-500 size-5 shrink-0" /> <span>2x Diamond Challenge Global Semi-finalist</span></li>
 
 
