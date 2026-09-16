@@ -32,6 +32,12 @@
             avatar: "/joshua.png",
             bio: "Driven by a commitment to build solutions with a real-world impact, Yichi brings engineering experience, research expertise, and civic engagement. He is a finalist in the XPRIZE Wildfire competition, where he developed AI-based fire detection and suppression systems featured on NBC, Yahoo Finance, and Good Morning America. Yichi has also created AI systems at SalesPatriot (YC W25) and conducts research on improving neural network memory for agentic AI, focusing on autonomous systems designed for practical deployment. Beyond engineering, he serves on his city’s youth advisory council, applying his technical insight to support his community and spearhead innovative policies.",
         },
+        {
+            name: "Revathi",
+            role: "Chief Marketing Officer (CMO)",
+            avatar: "/revathi.png",
+            bio: "Combining strategic leadership with a strong commitment to community impact, Revathi brings experience in business, research, and communication to her role as CMO. She earned first place at DECA’s International Career Development Conference and has twice been recognized at the Synopsys Science and Technology Championship. As Vice President of Curriculum for VCDECA, she leads weekly workshops that develop students’ business knowledge and leadership skills. Revathi has also conducted research on PFAS remediation, reflecting her interest in applying innovation to community challenges.",
+        },
     ];
 </script>
 
